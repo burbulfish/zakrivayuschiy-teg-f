@@ -20,7 +20,6 @@
   --inset-block-start-wrapper-label: clamp(23px, 1.3935rem + 0.1878vw, 25px);
   --inset-inline-end-wrapper-label: clamp(11px, 0.3794rem + 1.3146vw, 25px);
   --footer-button-inline-size: clamp(310px, 18.7368rem + 2.723vw, 339px);
-  --dialog-inline-size: clamp(341px, 21.0484rem + 1.1268vw, 353px); 
-  --dialog-container-inline-size: clamp(257px, 15.2702rem + 3.3803vw, 293px); 
-
+  --dialog-inline-size: clamp(341px, 21.0484rem + 1.1268vw, 353px);
+  --dialog-container-inline-size: clamp(257px, 15.2702rem + 3.3803vw, 293px);
 }

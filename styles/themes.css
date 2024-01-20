@@ -1,4 +1,4 @@
-:root.theme-light {  
+:root.theme-light { 
   --background-color: #fff;
   --accent-color: #000;
   --color-wrapper-label: #fff;
@@ -7,13 +7,13 @@
   --heart-core-color: #ff0000;
   --favicon-color: #fff;
   --main-font-wieght: "wght" 400;
-  --title-font-weight: "wght" 700;  
+  --title-font-weight: "wght" 700;
   --background-image: repeating-linear-gradient(90deg, #d3d3d3 0px 2px, transparent 2px 4px),
                         repeating-linear-gradient(#d3d3d3 0px 2px, transparent 2px 4px),
                         linear-gradient(#e7e7e7 0.01vh, #1a1a1a);
 }
 
-:root.theme-dark { 
+:root.theme-dark {
   --background-color: #000;
   --accent-color: #00cc14;
   --color-wrapper-label: #000;
@@ -22,7 +22,7 @@
   --heart-core-color: #ff0000;
   --favicon-color: #00cc14;
   --main-font-wieght: "wght" 465;
-  --title-font-weight: "wght" 785;   
+  --title-font-weight: "wght" 785;
   --background-image: repeating-linear-gradient(90deg, #000 0px 2px, transparent 2px 4px),
                         repeating-linear-gradient(#000 0px 2px, transparent 2px 4px),
                         linear-gradient(#007f0c, #004306);

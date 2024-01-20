@@ -234,7 +234,7 @@
 .button__text {
   font-family: var(--PressStart2p);
   font-size: 14px;
-  font-weight: var(--main-font-wiegh);
+  font-variation-settings: var(--main-font-wiegh);
   color: var(--accent-color);
 }
 
