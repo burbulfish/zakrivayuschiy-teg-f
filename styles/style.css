@@ -31,7 +31,7 @@
 .header__logo {
   font-size: var(--header-logo-font-size);
   font-variation-settings: var(--main-font-wieght);
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 .header__title {
@@ -205,7 +205,7 @@
 
 .card__like-button {
   min-inline-size: 130px;
-  padding-block: 9px;  
+  padding-block: 9px;
 }
 
 .content-button {
@@ -213,16 +213,16 @@
   border: 2px solid var(--accent-color);
   line-height: 90%;
   position: relative;
-  overflow: hidden;  
-  transition: box-shadow 0.3s ease;  
+  overflow: hidden;
+  transition: box-shadow 0.3s ease;
 }
 
-.content-button:focus{
+.content-button:focus {
   outline: none;
 } 
 
-.content-button:focus-visible {  
-  box-shadow: 2px 2px 0 var(--accent-color); 
+.content-button:focus-visible {
+  box-shadow: 2px 2px 0 var(--accent-color);
 }
 
 .content-button::after {
@@ -312,7 +312,7 @@
 
 .dialog__button {
   inline-size: 100%;
-  padding-block: 9px;  
+  padding-block: 9px;
 }
 
 .dialog::backdrop {
