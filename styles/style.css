@@ -49,7 +49,7 @@
 .theme-menu__list {
   display: flex;
   flex-direction: column;
-  padding-inline-start: 20px;  
+  padding-inline-start: 20px;
   gap: 10px;
   padding-block-start: 5px;
 }
@@ -118,15 +118,15 @@
   padding: 5px 10px;
 }
 
-.card__wrapper {  
-  position: relative;  
+.card__wrapper {
+  position: relative;
 }
 
-.card-mage {  
+.card-mage {
   display: block;
   object-fit: cover;
   object-position: center;
-  width: 100%;     
+  width: 100%;
 }
 
 .card__wrapper-label {
@@ -170,7 +170,7 @@
 .card__buttons {
   display: flex;
   justify-content: end;
-  align-items: center;  
+  align-items: center;
   margin: 25px;
 }
 
@@ -197,7 +197,6 @@
 
 .card__like-button:focus {
   outline: none;
-  
 }
 
 .card__like-button:focus-visible {
@@ -205,7 +204,6 @@
   box-shadow: 4px 4px 0 var(--accent-color);
   animation: shadow 0.3s ease;
 }
-
 
 .content-button {
   background-color: var(--background-color);
