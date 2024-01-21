@@ -263,7 +263,7 @@
   gap: 9px;
   flex-wrap: wrap;
   inline-size: var(--footer-button-inline-size);
-  padding-block: 7px;
+  padding-block: 15px;
 }
 
 .floppy-icon {
