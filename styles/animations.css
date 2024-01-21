@@ -59,7 +59,7 @@
 
 .like-icon.is-liked .heart {
   transform-origin: center;
-  animation: big-heart 0.3s 1 normal ease-in 0.1s;
+  animation: big-heart 0.3s 1 alternate ease-in 0.1s;
 }
 
 @keyframes big-heart {
@@ -73,7 +73,7 @@
 }
 
 .like-icon.is-liked .sparks {
-  animation: sparks 0.3s 1 normal ease-in 0.3s;
+  animation: sparks 0.3s 1 alternate ease-in 0.3s;
 }
 
 @keyframes sparks {
